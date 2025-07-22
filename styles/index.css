@@ -66,3 +66,39 @@ width: 30%;
   justify-content: start;
   background-color: rgb(209, 209, 209);
 }
+
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size:22px;
+}
+.section-two {
+padding: 40px 0; 
+font-size:30px;
+padding-bottom: 12px;
+
+}
+
+.li-button{
+  padding: 20px 30px;
+  border-radius: 10px;
+  background-color: #bae6fd;
+  list-style: none;
+  margin-right: 20px;
+color: #082f49;
+}
+
+
+.li-button:hover {
+  padding: 20px 30px;
+  border-radius: 10px;
+  color: #bae6fd;
+  list-style: none;
+  margin-right: 20px;
+background-color: #082f49;
+}
+
+.nav-button{
+  display: flex;
+
+
+}
